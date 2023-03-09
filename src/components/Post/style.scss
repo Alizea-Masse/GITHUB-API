@@ -1,0 +1,22 @@
+article {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: left;
+    gap: 1em;
+
+    
+  }
+
+  .post {
+    width: 14em;
+    height: 30em;
+    border: 1px solid grey;
+    align-items: center;
+    
+    
+  }
+
+  .facebookImg {
+    width: 10em;
+  }
